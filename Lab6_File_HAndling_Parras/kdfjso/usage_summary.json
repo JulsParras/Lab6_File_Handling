@@ -1,0 +1,9 @@
+{
+    "operating_system": "Android",
+    "target_behavior_class": 1,
+    "total_records_in_dataset": 700,
+    "records_matching_operating_system": 554,
+    "records_in_target_class": 114,
+    "average_battery_drain_mAh_per_day": 452.6140350877193,
+    "average_data_usage_MB_per_day": 202.49122807017545
+}

@@ -1,0 +1,20 @@
+CYBERSECURITY INCIDENT REPORT
+Target year: 2015
+Total incidents in target year: 277
+Total financial loss (USD millions): 14510.21
+Average financial loss (USD millions): 52.383429602888086
+
+COUNT PER ATTACK TYPE:
+DDoS: 50
+Malware: 51
+Man-in-the-Middle: 41
+Phishing: 46
+Ransomware: 47
+SQL Injection: 42
+
+FIVE COSTLIEST INCIDENTS:
+Year: 2015 | Attack: Ransomware | Loss (USD millions): 99.83
+Year: 2015 | Attack: Malware | Loss (USD millions): 99.41
+Year: 2015 | Attack: Phishing | Loss (USD millions): 99.2
+Year: 2015 | Attack: SQL Injection | Loss (USD millions): 98.78
+Year: 2015 | Attack: Man-in-the-Middle | Loss (USD millions): 98.58

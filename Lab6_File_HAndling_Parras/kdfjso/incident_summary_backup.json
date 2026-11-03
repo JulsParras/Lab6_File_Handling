@@ -1,0 +1,78 @@
+{
+    "target_year": 2015,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 277,
+    "attack_type_counts": {
+        "DDoS": 50,
+        "Ransomware": 47,
+        "SQL Injection": 42,
+        "Phishing": 46,
+        "Malware": 51,
+        "Man-in-the-Middle": 41
+    },
+    "total_financial_loss_usd_millions": 14510.21,
+    "average_financial_loss_usd_millions": 52.383429602888086,
+    "five_costliest_incidents": [
+        {
+            "Country": "Germany",
+            "Year": "2015",
+            "Attack Type": "Ransomware",
+            "Target Industry": "Telecommunications",
+            "Financial Loss (in Million $)": "99.83",
+            "Number of Affected Users": "419344",
+            "Attack Source": "Hacker Group",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Firewall",
+            "Incident Resolution Time (in Hours)": "59"
+        },
+        {
+            "Country": "Australia",
+            "Year": "2015",
+            "Attack Type": "Malware",
+            "Target Industry": "Retail",
+            "Financial Loss (in Million $)": "99.41",
+            "Number of Affected Users": "120048",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": "12"
+        },
+        {
+            "Country": "Australia",
+            "Year": "2015",
+            "Attack Type": "Phishing",
+            "Target Industry": "Banking",
+            "Financial Loss (in Million $)": "99.2",
+            "Number of Affected Users": "666877",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": "28"
+        },
+        {
+            "Country": "USA",
+            "Year": "2015",
+            "Attack Type": "SQL Injection",
+            "Target Industry": "Education",
+            "Financial Loss (in Million $)": "98.78",
+            "Number of Affected Users": "140958",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": "51"
+        },
+        {
+            "Country": "Russia",
+            "Year": "2015",
+            "Attack Type": "Man-in-the-Middle",
+            "Target Industry": "Education",
+            "Financial Loss (in Million $)": "98.58",
+            "Number of Affected Users": "816455",
+            "Attack Source": "Unknown",
+            "Security Vulnerability Type": "Unpatched Software",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": "40"
+        }
+    ],
+    "filtered_csv_file": "filtered_incidents.csv"
+}
